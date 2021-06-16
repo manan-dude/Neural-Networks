@@ -5,7 +5,7 @@ went on to become one of the most powerful and useful methods in the field of ar
 Neural networks are already at the heart of everyday technology - like automatic car number plate recognition and 
 decoding handwritten postcodes on your handwritten letters.
  
-##  I have made my own neural network that can be trained to recognise human handwritten characters.
+##  I have tried to a neural network that can be trained to recognise human handwritten characters.
 
 ###  PYTHON MODULES AND LIBRARIES THAT ARE USED HERE :
 
@@ -26,3 +26,6 @@ decoding handwritten postcodes on your handwritten letters.
 - initialisation - to set the number of input, hidden and output nodes 
 - train - refine the weights after being given a training set example to learn from 
 - query - give an answer from the output nodes after being given an input
+
+##### If you have any queries about the source-code or anything regarding this project ask me , I will try to resolve your problem.
+My linkedin id is available on my github profile .
