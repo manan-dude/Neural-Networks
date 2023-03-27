@@ -5,7 +5,7 @@ went on to become one of the most powerful and useful methods in the field of ar
 Neural networks are already at the heart of everyday technology - like automatic car number plate recognition and 
 decoding handwritten postcodes on your handwritten letters.
  
-##  I have tried to a neural network that can be trained to recognise human handwritten characters.
+##  I have tried to build a neural network that can be trained to recognise human handwritten characters.
 
 ###  PYTHON MODULES AND LIBRARIES THAT ARE USED HERE :
 
